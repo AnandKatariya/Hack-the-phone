@@ -12,7 +12,7 @@ cd  /opt
 ```
 ## Git clone
 ```sh
-git clone https://github.com/ultrasecurity/Strom-Breaker.git
+git clone https://github.com/ultrasecurity/Storm-Breaker
 ```
 ## List the tool
 ```sh
@@ -20,15 +20,15 @@ opt ls
 ```
 ## Select the tool
 ```sh
-/opt# cd Strom-Breaker/
+cd Strom-Breaker
 ```
 ## List the core tool 
 ```sh
-/opt/Strom-Breaker# ls
+ls
 ```
 ## Update the tool
 ```sh
-/opt/Strom-Breaker# ls apt update
+ apt update
 ```
 ## Install another extension
 ```sh
