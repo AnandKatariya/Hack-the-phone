@@ -82,7 +82,7 @@ curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trust
 ## Then connect your account to terminal 
 
 <p>
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/demo07.jpeg" />
 </p>
 
 ## Then paste the command ngrok http 2525
