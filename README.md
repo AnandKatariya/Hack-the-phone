@@ -6,6 +6,12 @@
 
 > 
 ### 🏠 [Homepage](https://github.com/AnandKatariya?tab=repositories)
+<p align =center >
+  <img src="https://bestanimations.com/media/hazards/45886907warning-yellow-blinking-sign-animated-gif-3.gif" />
+</p>
+<h1 align="center">Dont try this at Home, School,Or any other public place!!!</h1>
+<br>
+
 ## Select the path
 ```sh
 cd  /opt
@@ -108,6 +114,9 @@ curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trust
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO06.png" />
 </p>
 
+<p align =center >
+  <img src="https://i.ytimg.com/vi/SGFbhurIRY8/sddefault.jpg" hight= '200' width= '200' />
+</p>
 
 ## Author
 
