@@ -52,8 +52,7 @@ bash install.sh
 ```sh
 python3 st.py
 ```
-
-## Go to browser and install this
+<h1 align="center">Go to browser and install this</h1>
 
 
 ## Install the ngrok
