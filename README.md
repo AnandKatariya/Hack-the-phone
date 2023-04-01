@@ -63,7 +63,7 @@ python3 st.py
 </p>
 <br>
 
-## Open the new terminal 
+<h1 align="center">Open the new terminal</h1>
 
 ## Extract the ngrok
 ```sh
