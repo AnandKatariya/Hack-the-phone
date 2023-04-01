@@ -135,7 +135,7 @@ This command should be paste in new terminal.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Cam-Dumper/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Hack-the-phone/issues).
 
 ## Show your support
 
