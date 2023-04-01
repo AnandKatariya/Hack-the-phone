@@ -115,6 +115,7 @@ From here the terminal will generate the link then you will able to open this li
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO04.png" />
 </p>
 
+The website will ask you for the permission, so allow the website.
 
 ## Login  Id:- admin  Password:- admin
 
