@@ -84,7 +84,8 @@ curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trust
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO02.png" />
 </p>
 
-## Go to terminal
+<br>
+<h1 align="center">Go to terminal</h1>
 
 ## Then connect your account to terminal 
 
