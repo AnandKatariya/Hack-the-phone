@@ -108,6 +108,8 @@ This command should be paste in new terminal.
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO03.png" />
 </p>
 
+From here the terminal will generate the link then you will able to open this link in browser.
+
 ## Access to website 
 <p>
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO04.png" />
