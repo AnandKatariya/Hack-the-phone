@@ -129,6 +129,7 @@ The login page will appere then you should login in it by username ADMIN and pas
 <p>
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO06.png" />
 </p>
+Then you will able to copy the link and send this to anyone just for prank not for serious purpose, Just use this for fun.
 
 <p align =center >
   <img src="https://i.ytimg.com/vi/SGFbhurIRY8/sddefault.jpg" hight= '200' width= '200' />
