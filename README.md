@@ -94,17 +94,21 @@ curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trust
 Copy this connect my account code and paste it in new terminal and then your account will be connected and the host will give access to website.
 
 ## Then paste the command ngrok http 2525
-<p>
-  <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO03.png" />
-</p>
+
 
 This command should be paste in new terminal. 
 
 ## Then copy the link and open in Browser
 
 <p>
+  <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO03.png" />
+</p>
+
+## Access to website 
+<p>
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO04.png" />
 </p>
+
 
 ## Login  Id:- admin  Password:- admin
 
