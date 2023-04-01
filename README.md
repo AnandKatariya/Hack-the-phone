@@ -122,6 +122,7 @@ The website will ask you for the permission, so allow the website.
 <p>
   <img src="https://raw.githubusercontent.com/AnandKatariya/Hack-the-phone/main/picture/DEMO05.png" />
 </p>
+The login page will appere then you should login in it by username ADMIN and password ADMIN, You change the login id and password by entering the website.
 
 
 ## Sign in your account and then send ammonuyus link you want to hack.
