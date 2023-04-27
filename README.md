@@ -135,17 +135,3 @@ Then you will able to copy the link and send this to anyone just for prank not f
   <img src="https://i.ytimg.com/vi/SGFbhurIRY8/sddefault.jpg" hight= '200' width= '200' />
 </p>
 
-## Author
-
-👤 **Anand Katariya**
-
-* Github: [@AnandKatariya](https://github.com/AnandKatariya)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Hack-the-phone/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you! <br>
-Stay tuned for more updates.
